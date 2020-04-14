@@ -6,5 +6,6 @@
     <string name="regsitrarse">Registrarse</string>
     <string name="lista">Lista</string>
     <string name="registrate">Registrate</string>
+    <string name="desconectar">Desconectar</string>
     <string name="prueba"> Prueba </string>
 </resources>
